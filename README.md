@@ -9,15 +9,15 @@ Aqui você vai praticar requisições assíncronas com `fetch` e manipulação d
 
 1. 🧙‍♂️ **Agify API**  
    Estima a idade provável de uma pessoa com base no nome informado.  
-   🔗 Endpoint: `https://api.agify.io?name=nome`
+   🔗 Endpoint: [`https://api.agify.io?name=nome`](https://api.agify.io?name=nome)
 
 2. 🐶 **Dog CEO’s Dog API**  
    Gera imagens aleatórias de cachorros fofos de várias raças.  
-   🔗 Endpoint: `https://dog.ceo/api/breeds/image/random`
+   🔗 Endpoint: [`https://dog.ceo/api/breeds/image/random`](https://dog.ceo/dog-api/)
 
 3. 🐱 **MeowFacts API**  
    Fatos curiosos sobre gatos, já traduzidos para o português!  
-   🔗 Endpoint: `https://meowfacts.herokuapp.com/?lang=por-br`
+   🔗 Endpoint: [`https://meowfacts.herokuapp.com/?lang=por-br`](https://meowfacts.herokuapp.com/?lang=por-br)
 
 4. 📰 **GNews API**  
    Principais manchetes do Brasil em tempo real!  
@@ -43,7 +43,3 @@ Quer compartilhar seu projeto com o mundo?
 ## ✍️ Autor
 
 **Sara Vieira**
-
-
-
-
