@@ -41,7 +41,7 @@ btnDog.addEventListener('click', async () => {
 })
 
 // === 3. MEOWFACTS API ===
-// Retorna um fato curioso sobre gatos, já traduzido para português.
+// Retorna um fato curioso sobre gatos.
 btnAtividade.addEventListener('click', async () => {
   try {
     const response = await fetch('https://meowfacts.herokuapp.com/?lang=por-br')
@@ -55,7 +55,7 @@ btnAtividade.addEventListener('click', async () => {
 })
 
 // === 4. GNEWS API ===
-// Mostra as principais manchetes do Brasil. Requer uma chave de API gratuita do GNews.
+// Mostra as principais manchetes do Brasil.
 const btnNoticias = getById('btnNoticias')
 const noticiasResultado = getById('noticiasResultado')
 
