@@ -33,6 +33,15 @@ Aqui vamos praticar requisições assíncronas com `fetch` e manipulação do DO
 
 ---
 
+## 🌐 Rodando localmente
+
+1. Clone ou baixe este repositório.  
+2. Abra o arquivo `index.html` em um navegador (recomendado usar um servidor local, ex: VSCode Live Server).  
+3. No arquivo `script.js`, substitua o valor de `API_KEY` pela sua chave da GNews (não compartilhe esta chave publicamente).  
+4. Teste os botões para interagir com as APIs.
+
+---
+
 ## ✍️ Autor
 
 **Sara Vieira**
