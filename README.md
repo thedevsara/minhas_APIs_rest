@@ -27,9 +27,9 @@ Aqui vamos praticar requisições assíncronas com `fetch` e manipulação do DO
 
 ## 🗂 Estrutura do Projeto
 
-- 📄 `index.html` — Estrutura e conteúdo da página  
-- 🎨 `style.css` — Design moderno, responsivo e animado  
-- ⚙️ `script.js` — Lógica para consumir APIs e atualizar a interface dinamicamente  
+- 📄 `index.html` — Estrutura e conteúdo da página.
+- 🎨 `style.css` — Design moderno, responsivo.
+- ⚙️ `script.js` — Lógica para consumir APIs e atualizar a interface dinamicamente. 
 
 ---
 
