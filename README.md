@@ -1,6 +1,6 @@
 # 🚀 Projeto **APIs REST**
 
-🎉 Este projeto demonstra o consumo de **4 APIs REST públicas** que trazem informações interessantes, curiosas e úteis, tudo exibido numa página web simples, prática e interativa!  
+Este projeto demonstra o consumo de **4 APIs REST públicas** que trazem informações interessantes, curiosas e úteis, tudo exibido numa página web simples, prática e interativa!  
 Aqui você vai praticar requisições assíncronas com `fetch` e manipulação do DOM usando JavaScript moderno.
 
 ---
