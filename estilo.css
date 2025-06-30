@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(145deg, #fdf3c6, #855bc5);
+  color: #333;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #815bd3;
+  margin-bottom: 2rem;
+  text-shadow: 1px 1px #fff;
+}
+
+section {
+  background: #fffbe9;
+  border: 2px solid #ffe59d;
+  border-radius: 1.5rem;
+  box-shadow: 0 8px 20px rgba(255, 183, 0, 0.3);
+  width: 90%;
+  max-width: 500px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  transition: transform 0.3s ease;
+}
+
+section:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 25px rgba(121, 99, 172, 0.5);
+}
+
+h2 {
+  color: #815bd3;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  background: #815bd3;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 2rem;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s;
+  box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3);
+}
+
+button:hover {
+  background: #ff7a00;
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+input[type="text"] {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border-radius: 1.2rem;
+  border: 2px solid #ffcc70;
+  width: 100%;
+  margin-bottom: 1rem;
+  transition: border-color 0.3s;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #ff9900;
+}
+
+img {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  animation: float 3s ease-in-out infinite;
+}
+
+p,
+#atividadeTexto,
+#resultadoIdade,
+#noticiasResultado {
+  font-size: 1.1rem;
+  color: #333;
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+a {
+  color: #ff7a00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
