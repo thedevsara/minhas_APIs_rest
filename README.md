@@ -25,13 +25,6 @@ Aqui vamos praticar requisições assíncronas com `fetch` e manipulação do DO
 
 ---
 
-## 🌐 Publicação no GitHub Pages
-
-Quer compartilhar seu projeto com o mundo?  
-É simples: faça upload dos arquivos no GitHub, ative o GitHub Pages no repositório e tenha sua página online em minutos! 🚀
-
----
-
 ## 🗂 Estrutura do Projeto
 
 - 📄 `index.html` — Estrutura e conteúdo da página  
